@@ -425,6 +425,34 @@
     "testimonials": []
   },
   {
+    "lat": 48.116448,
+    "lng": -1.674160,
+    "title": "Rennes - Hôpital",
+    "continent": "Europe",
+    "date": "Novembre 2024",
+    "desc": "Visite dans un hôpital.",
+    "image": "https://cdn.prod.website-files.com/674862f09b0bbc6612c0a944/69981ff55e6996f1f6d7b330_H%C3%B4pital%20Guillaume%20Regnier%20(Rennes)%202.jpg"
+    "drivelink" : "https://drive.google.com/drive/folders/1Yc8bxWgyvcocRXg_JXXW2B9Ha44qLG6x?usp=drive_link",
+    "statue": "NDT 2",
+    "isCurrent": false,
+    "showTestimonials": false,
+    "testimonials": []
+  },
+  {
+    "lat": 48.024538,
+    "lng": -1.747148,
+    "title": "Bruz",
+    "continent": "Europe",
+    "date": "Novembre 2024",
+    "desc": "",
+    "image": "https://cdn.prod.website-files.com/674862f09b0bbc6612c0a944/6998216acbc8b84069d154c1_R%C3%A9sidents%20de%20Bruz%202.jpg"
+    "drivelink" : "https://drive.google.com/drive/folders/1Yc8bxWgyvcocRXg_JXXW2B9Ha44qLG6x?usp=drive_link",
+    "statue": "NDT 2",
+    "isCurrent": false,
+    "showTestimonials": false,
+    "testimonials": []
+  },
+  {
     "lat": 49.4938975,
     "lng": 0.1079732,
     "title": "Le Havre",
@@ -688,6 +716,90 @@
     "desc": "Première statue à être partie en mission, le 31 mai 2024, elle a été accueillie par Mgr Emmanuel Dassi, évêque de Bafia, qui la fait depuis lors visiter les plus pauvres dans les différentes zones de son diocèse.",
     "image": "https://cdn.prod.website-files.com/674862f09b0bbc6612c0a944/699712ed1d9fc1e75ba14846_IMG-20250103-WA0182.jpg",
     "driveLink": "https://drive.google.com/drive/folders/10ohAZZYKnR59suqTi3y_5LUf25RNtobT?usp=sharing",
+    "statue": "NDT 2",
+    "isCurrent": false,
+    "showTestimonials": false,
+    "testimonials": []
+  }
+   {
+    "lat": -5.081098,
+    "lng": -42.774291,
+    "title": "Brésil - Teresina",
+    "continent": "Amérique",
+    "date": "Mai 2025",
+    "desc": "",
+    "image": "https://cdn.prod.website-files.com/674862f09b0bbc6612c0a944/69981cc134632d97207e60ab_494359707_1008711611239534_8835846354663786317_n.jpg",
+    "driveLink": "https://drive.google.com/drive/folders/1A2vzUII3q2TSRYBD1D3DBwC8fdRmUqzS?usp=sharing",
+    "statue": "NDT 2",
+    "isCurrent": false,
+    "showTestimonials": false,
+    "testimonials": []
+  }
+  {
+    "lat": 10.691803,
+    "lng": -61.222503,
+    "title": "Trinité-et-Tobago",
+    "continent": "Amérique",
+    "date": "Janvier 2026",
+    "desc": "Emmenée par la famille Bergerault en voilier, Notre-Dame de Tendresse poursuit son itinéraire maritime à la rencontre des plus pauvres.",
+    "image": "https://cdn.prod.website-files.com/674862f09b0bbc6612c0a944/69981df5dba7b43b0930f498_PHOTO-2026-01-14-20-24-14.jpg",
+    "driveLink": "https://drive.google.com/drive/folders/1nwFtLQlbEXK_j2qnP1OZDw9J33GbayNt?usp=sharing",
+    "statue": "NDT 2",
+    "isCurrent": false,
+    "showTestimonials": false,
+    "testimonials": []
+  }
+  {
+    "lat": 49.182863,
+    "lng": -0.370679,
+    "title": "Caen",
+    "continent": "Europe",
+    "date": "Mai 2025",
+    "desc": "Visite dans un domicile",
+    "image": "https://cdn.prod.website-files.com/674862f09b0bbc6612c0a944/69981f0aa2107245a4a3ea1f_Caen%2C%20chez%20un%20p%C3%A8re%20c%C3%A9libataire%20qui%20vient%20d%E2%80%99apprendre%20qu%E2%80%99il%20est%20malade.jpg",
+    "driveLink": "https://drive.google.com/drive/folders/1qx8ErS1orAP8U844HofjcBCu4WsXe-D3?usp=sharing",
+    "statue": "NDT 2",
+    "isCurrent": false,
+    "showTestimonials": false,
+    "testimonials": []
+  }
+  {
+    "lat": 48.290370,
+    "lng": -3.230956,
+    "title": "Village Saint Joseph",
+    "continent": "Europe",
+    "date": "Mai 2025",
+    "desc": "Visite dans une maison du Village Saint Joseph",
+    "image": "https://cdn.prod.website-files.com/674862f09b0bbc6612c0a944/6998250d2c8fa2a06be174e5_FRANCE%20Village%20saint%20Joseph%2001.jpg",
+    "driveLink": "https://drive.google.com/drive/folders/1Yc8bxWgyvcocRXg_JXXW2B9Ha44qLG6x?usp=drive_link",
+    "statue": "NDT 2",
+    "isCurrent": false,
+    "showTestimonials": false,
+    "testimonials": []
+  }
+  {
+    "lat": 39.617206,
+    "lng": -8.652142,
+    "title": "Portugal - Fátima",
+    "continent": "Europe",
+    "date": "Mai 2025",
+    "desc": "Escale à Fátima avant d'aller au Mozambique.",
+    "image": "https://cdn.prod.website-files.com/674862f09b0bbc6612c0a944/6998260671dce4b9017b6a1e_PHOTO-2025-04-27-00-14-53.jpg",
+    "driveLink": "https://drive.google.com/drive/folders/1eh7oa2mmkTnP1k6OBgTUuUyYCS2L4N9c?usp=sharing",
+    "statue": "NDT 2",
+    "isCurrent": false,
+    "showTestimonials": false,
+    "testimonials": []
+  }
+  {
+    "lat": 48.108470,
+    "lng": -1.737382,
+    "title": "Centre pénitentiaire de Rennes-Vezin",
+    "continent": "Europe",
+    "date": "Mai 2025",
+    "desc": "Visite dans une prison.",
+    "image": "https://cdn.prod.website-files.com/674862f09b0bbc6612c0a944/699827d4017b4689c64783b5_DSC02469.JPG",
+    "driveLink": "https://drive.google.com/drive/folders/1X6d2s2YP4t_ptf-9OKkLbBEYFDKG8XCs?usp=drive_link",
     "statue": "NDT 2",
     "isCurrent": false,
     "showTestimonials": false,
