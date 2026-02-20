@@ -431,7 +431,7 @@
     "continent": "Europe",
     "date": "Novembre 2024",
     "desc": "Visite dans un hôpital.",
-    "image": "https://cdn.prod.website-files.com/674862f09b0bbc6612c0a944/69981ff55e6996f1f6d7b330_H%C3%B4pital%20Guillaume%20Regnier%20(Rennes)%202.jpg"
+    "image": "https://cdn.prod.website-files.com/674862f09b0bbc6612c0a944/69981ff55e6996f1f6d7b330_H%C3%B4pital%20Guillaume%20Regnier%20(Rennes)%202.jpg",
     "drivelink" : "https://drive.google.com/drive/folders/1Yc8bxWgyvcocRXg_JXXW2B9Ha44qLG6x?usp=drive_link",
     "statue": "NDT 2",
     "isCurrent": false,
@@ -790,5 +790,5 @@
     "isCurrent": false,
     "showTestimonials": false,
     "testimonials": []
-  },
+  }
 ]
