@@ -791,18 +791,4 @@
     "showTestimonials": false,
     "testimonials": []
   },
-  {
-    "lat": 48.108470,
-    "lng": -1.737382,
-    "title": "Centre pénitentiaire de Rennes-Vezin",
-    "continent": "Europe",
-    "date": "Mai 2025",
-    "desc": "Visite dans une prison.",
-    "image": "https://cdn.prod.website-files.com/674862f09b0bbc6612c0a944/699827d4017b4689c64783b5_DSC02469.JPG",
-    "driveLink": "https://drive.google.com/drive/folders/1X6d2s2YP4t_ptf-9OKkLbBEYFDKG8XCs?usp=drive_link",
-    "statue": "NDT 2",
-    "isCurrent": false,
-    "showTestimonials": false,
-    "testimonials": []
-  },
 ]
