@@ -720,7 +720,7 @@
     "isCurrent": false,
     "showTestimonials": false,
     "testimonials": []
-  }
+  },
    {
     "lat": -5.081098,
     "lng": -42.774291,
@@ -734,7 +734,7 @@
     "isCurrent": false,
     "showTestimonials": false,
     "testimonials": []
-  }
+  },
   {
     "lat": 10.691803,
     "lng": -61.222503,
@@ -748,7 +748,7 @@
     "isCurrent": false,
     "showTestimonials": false,
     "testimonials": []
-  }
+  },
   {
     "lat": 49.182863,
     "lng": -0.370679,
@@ -762,7 +762,7 @@
     "isCurrent": false,
     "showTestimonials": false,
     "testimonials": []
-  }
+  },
   {
     "lat": 48.290370,
     "lng": -3.230956,
@@ -776,7 +776,7 @@
     "isCurrent": false,
     "showTestimonials": false,
     "testimonials": []
-  }
+  },
   {
     "lat": 39.617206,
     "lng": -8.652142,
@@ -790,7 +790,7 @@
     "isCurrent": false,
     "showTestimonials": false,
     "testimonials": []
-  }
+  },
   {
     "lat": 48.108470,
     "lng": -1.737382,
@@ -804,5 +804,5 @@
     "isCurrent": false,
     "showTestimonials": false,
     "testimonials": []
-  }
+  },
 ]
