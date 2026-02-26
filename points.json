@@ -886,5 +886,19 @@
     "isCurrent": false,
     "showTestimonials": false,
     "testimonials": []
+  },
+  {
+    "lat": 41.382580,
+    "lng": 2.177073,
+    "title": "Espagne - Barcelone",
+    "continent": "Europe",
+    "date": "Juin 2025",
+    "desc": "",
+    "image": "https://cdn.prod.website-files.com/674862f09b0bbc6612c0a944/69a0632c6b80876c4817ebe9_WhatsApp%20Image%202026-02-26%20at%2016.10.43.jpeg",
+    "driveLink": "",
+    "statue": "",
+    "isCurrent": false,
+    "showTestimonials": false,
+    "testimonials": []
   }
 ]
