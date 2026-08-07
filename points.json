@@ -169,8 +169,8 @@
     "driveLink": "https://drive.google.com/drive/folders/12i0w1ipEF1wqMRTU_jTbJ_6BRg5xiWk5?usp=sharing",
     "statue": "NDT 15",
     "isCurrent": true,
-    "showTestimonials": false,
-    "testimonials": []
+    "showTestimonials": true,
+    "testimonials": [ Au Liban, en ces temps d’inquiétude et d’incertitude, Notre-Dame de la Tendresse demeure notre refuge, notre paix et notre espérance. Sous son regard maternel, nous confions notre pays, nos familles et tous ceux qui souffrent. 🙏 Sr Dalida ]
   },
   {
     "lat": -4.4419,
@@ -367,8 +367,8 @@
     "driveLink": "https://drive.google.com/drive/folders/1zMshkMJGCaU_1ViOvERpDzWvqHO5bjSu?usp=sharing",
     "statue": "NDT 13",
     "isCurrent": false,
-    "showTestimonials": false,
-    "testimonials": []
+    "showTestimonials": true,
+    "testimonials": [ La visite de Notre-Dame de la Tendresse dans notre communauté se poursuit. Actuellement, elle est chez nos sœurs à Antetezambato Ambanja. J'ai eu la joie de la retrouver lors de mon passage là-bas. J'en profite pour donner plus d'informations sur Notre-Dame de la Tendresse aux chrétiens : ils se précipitent pour demander sa visite dans leurs foyers ! Selon leurs témoignages, cela apporte la joie et la réconciliation au sein des familles. ]
   },
   {
     "lat": -21.456444,
@@ -898,6 +898,35 @@
     "driveLink": "",
     "statue": "",
     "isCurrent": false,
+    "showTestimonials": false,
+    "testimonials": []
+  }
+  [
+  {
+    "lat": 11.5564,
+    "lng": 104.9282,
+    "title": "Cambodge",
+    "continent": "Asie",
+    "date": "Juin 2026",
+    "desc": "Notre-Dame de Tendresse a rejoint le père Will Conquer des Missions Étrangères de Paris !",
+    "image": "https://cdn.prod.website-files.com/674862f09b0bbc6612c0a944/6a75f901b886b7d0872256c4_WhatsApp%20Image%202026-06-10%20at%2009.30.49.jpeg",
+    "driveLink": "",
+    "statue": "",
+    "isCurrent": true,
+    "showTestimonials": false,
+    "testimonials": []
+  },
+  {
+    "lat": 48.7484,
+    "lng": 30.2218,
+    "title": "Ukraine - Ouman",
+    "continent": "Europe",
+    "date": "Août 2026",
+    "desc": "",
+    "image": "https://cdn.prod.website-files.com/674862f09b0bbc6612c0a944/6a75f9117208f57d6bd102f6_WhatsApp%20Image%202026-08-03%20at%2017.59.34.jpeg",
+    "driveLink": "",
+    "statue": "",
+    "isCurrent": true,
     "showTestimonials": false,
     "testimonials": []
   }
