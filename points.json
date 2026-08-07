@@ -170,7 +170,12 @@
     "statue": "NDT 15",
     "isCurrent": true,
     "showTestimonials": true,
-    "testimonials": [ Au Liban, en ces temps d’inquiétude et d’incertitude, Notre-Dame de la Tendresse demeure notre refuge, notre paix et notre espérance. Sous son regard maternel, nous confions notre pays, nos familles et tous ceux qui souffrent. 🙏 Sr Dalida ]
+    "testimonials":[
+      {
+        "author": "Sr Dalida",
+        "text": "Au Liban, en ces temps d’inquiétude et d’incertitude, Notre-Dame de la Tendresse demeure notre refuge, notre paix et notre espérance. Sous son regard maternel, nous confions notre pays, nos familles et tous ceux qui souffrent. 🙏"
+      }
+    ]
   },
   {
     "lat": -4.4419,
@@ -368,7 +373,12 @@
     "statue": "NDT 13",
     "isCurrent": false,
     "showTestimonials": true,
-    "testimonials": [ La visite de Notre-Dame de la Tendresse dans notre communauté se poursuit. Actuellement, elle est chez nos sœurs à Antetezambato Ambanja. J'ai eu la joie de la retrouver lors de mon passage là-bas. J'en profite pour donner plus d'informations sur Notre-Dame de la Tendresse aux chrétiens : ils se précipitent pour demander sa visite dans leurs foyers ! Selon leurs témoignages, cela apporte la joie et la réconciliation au sein des familles. ]
+    "testimonials":[
+      {
+        "author": "Sr Victoire",
+        "text": "J'en profite pour donner plus d'informations sur Notre-Dame de la Tendresse aux chrétiens : ils se précipitent pour demander sa visite dans leurs foyers ! Selon leurs témoignages, cela apporte la joie et la réconciliation au sein des familles."
+      }
+    ]
   },
   {
     "lat": -21.456444,
